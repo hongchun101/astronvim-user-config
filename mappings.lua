@@ -22,6 +22,7 @@ return {
     -- ["<C-s>"] = { ":w!<cr>", desc = "Save File" },  -- change description but the same command
     ["H"] = { "^" },
     ["L"] = { "$" },
+    ["<leader>gg"] = { "<cmd>ToggleTerm direction=tab<cr> lazygit<cr>" }
   },
   t = {
     -- setting a mapping to false will disable it
