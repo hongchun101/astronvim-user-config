@@ -12,7 +12,7 @@ return {
   -- { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.json" },
-  { import = "astrocommunity.pack.java" },
+  -- { import = "astrocommunity.pack.java" },
   { import = "astrocommunity.pack.kotlin" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.rust" },
@@ -32,5 +32,5 @@ return {
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
   { import = "astrocommunity.editing-support.refactoring-nvim" },
   { import = "astrocommunity.note-taking.obsidian-nvim" },
-  { import = "astrocommunity.workflow.hardtime-nvim" },
+  -- { import = "astrocommunity.workflow.hardtime-nvim" },
 }
