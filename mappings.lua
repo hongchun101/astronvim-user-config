@@ -26,6 +26,10 @@ return {
     ["L"] = { "$" },
     -- ["<leader>gg"] = { "<cmd>ToggleTerm direction=tab<cr> lazygit<cr>" }
   },
+  v = {
+    ["H"] = { "^" },
+    ["L"] = { "$" },
+  },
   t = {
     -- setting a mapping to false will disable it
     -- ["<esc>"] = false,
