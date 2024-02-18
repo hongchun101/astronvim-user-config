@@ -1,5 +1,5 @@
 return {
-  { import = "astrocommunity.utility.transparent-nvim" },
+  -- { import = "astrocommunity.utility.transparent-nvim" },
   { import = "astrocommunity.utility.neodim" },
   { import = "astrocommunity.utility.noice-nvim" },
   { import = "astrocommunity.utility.nvim-toggler" },
